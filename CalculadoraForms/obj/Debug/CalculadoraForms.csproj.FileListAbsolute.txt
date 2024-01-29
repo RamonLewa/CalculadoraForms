@@ -1,0 +1,10 @@
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
+C:\Users\ramon\source\repos\CalculadoraForms\CalculadoraForms\obj\Debug\CalculadoraForms.Calculadora.resources
